@@ -1,0 +1,6 @@
+{
+  "name": "TERRA VITA — Editorial Humanitarian Monograph & Field Audit",
+  "description": "An editorial publication and interactive humanitarian monograph blending Swiss structural precision with empathetic field dispatches, impact telemetry, and community oral histories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
